@@ -8,7 +8,7 @@
 
 This is a research about the Airbnb data for the city of Bangkok in Thailand. Types of homestays, neighbourhoods, prices, and minimum nights were examined. Using quantitative analysis, some of the particularities of the advertised accommodations were identified. 
 
-[Link para o projeto completo](https://medium.com/@rafaelnduarte)
+[Link to full project](https://colab.research.google.com/github/AmiltonFerreira/airbnb/blob/main/Airbnb_Data_Analysis_Bangkok.ipynb)
 
 **Links to my content:**
 * [LinkedIn](https://www.linkedin.com/in/amiltonferreirajr/)
